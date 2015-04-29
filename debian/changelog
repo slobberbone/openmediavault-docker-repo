@@ -1,0 +1,5 @@
+openmediavault-docker-repo (0.1) stable; urgency=low
+
+  * initial release
+  
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Sat, 25 Apr 2015 10:18:59 -0500

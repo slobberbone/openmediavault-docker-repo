@@ -1,2 +1,1 @@
-# openmediavault-docker-repo
-Plugin for OpenMediaVault allowing to add docker repositroy and dependencies
+docker repository for docker plugin for OpenMediaVault
